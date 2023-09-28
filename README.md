@@ -16,7 +16,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['C#', 'JavaScript', 'PHP'];
   databases  = ['MySQL', 'SQL Server', 'PostgreSQL'];
   frameworks = ['Vue.js', '.NET'];  
-  learning   = ['React', 'Java', 'Python''];
+  learning   = ['React', 'Java', 'Python'];
   
   // Other skills
   wordpress = true;
